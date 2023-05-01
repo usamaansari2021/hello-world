@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>School Name - Welcome</title>
+  <title>Umme Aiman - Welcome</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
