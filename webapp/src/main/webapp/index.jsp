@@ -20,7 +20,7 @@
   
   <main>
     <section>
-      <h1>Welcome to School Name</h1>
+      <h1>Welcome to Madrasa Umme aiman</h1>
       <p>Provide a brief introduction to the school, its mission and vision.</p>
       <img src="school-image.jpg" alt="School Image">
     </section>
