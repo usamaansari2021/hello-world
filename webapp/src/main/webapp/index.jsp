@@ -1,37 +1,54 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
-     
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    <br>
-    
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
-
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
-    <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
-   <h1> Thankyou, Happy Learning </h1>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>School Name - Welcome</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Academics</a></li>
+        <li><a href="#">Admissions</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
   
-</form>
+  <main>
+    <section>
+      <h1>Welcome to School Name</h1>
+      <p>Provide a brief introduction to the school, its mission and vision.</p>
+      <img src="school-image.jpg" alt="School Image">
+    </section>
+    
+    <section>
+      <h2>About Us</h2>
+      <p>Provide more details about the school's history, facilities, faculty, and staff.</p>
+    </section>
+    
+    <section>
+      <h2>Academics</h2>
+      <p>Provide details about the courses offered, academic programs, and resources available to students.</p>
+    </section>
+    
+    <section>
+      <h2>Admissions</h2>
+      <p>Provide information about the admissions process, requirements, and deadlines.</p>
+    </section>
+    
+    <section>
+      <h2>Contact Us</h2>
+      <p>Provide contact information for the school, including address, phone number, and email.</p>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 School Name. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
+
