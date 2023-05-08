@@ -12,7 +12,7 @@
         <li><a href="#">Home</a></li>
         <li><a href="#">About Us</a></li>
         <li><a href="#">Academics</a></li>
-        <li><a href="#">Admissions</a></li>
+        <li><a href="#">Admissions-2023-2024</a></li>
         <li><a href="#">Contact Us</a></li>
       </ul>
     </nav>
@@ -20,7 +20,7 @@
   
   <main>
     <section>
-      <h1>Welcome to School Name</h1>
+      <h1>Welcome to Madrasa Umme aiman</h1>
       <p>Provide a brief introduction to the school, its mission and vision.</p>
       <img src="school-image.jpg" alt="School Image">
     </section>
